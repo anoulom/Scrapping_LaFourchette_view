@@ -2,4 +2,4 @@
 project : How to scrap comments, views and note from LaFourchette with Selenium
 
 
-Not finalized
+State : Work in progress, not finalized
